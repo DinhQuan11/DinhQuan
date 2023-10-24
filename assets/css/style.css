@@ -161,8 +161,6 @@ html {
     font-size: 12px;
 }
 
-#slider {}
-
 .slider {
     position: relative;
     top: 48px;
@@ -210,8 +208,6 @@ html {
         opacity: 1;
     }
 }
-
-#content {}
 
 .content-section {
     padding: 32px 0;
@@ -311,8 +307,6 @@ td {
 }
 
 /* Feedback */
-#feedback {}
-
 #feedback .reaction {
     margin: 48px 0;
 }
